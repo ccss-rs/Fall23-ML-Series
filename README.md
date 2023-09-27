@@ -1,4 +1,4 @@
-## CCSS Data Science Bootcamp Machine Learning Series Repository
+## Fall '23 CCSS Machine Learning Workshop Series Repository
 
 Welcome to the Machine Learning Workshop Series! The following buttons will take you to each designated sessions’ Google Colab notebooks. You can additionally find all of the session slide files within the Slides folder. 
 
